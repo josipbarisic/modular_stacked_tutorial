@@ -1,4 +1,3 @@
-import 'package:modular_stacked_tutorial/core/test_enum.dart';
 import 'package:stacked/stacked.dart';
 
 class CounterService with ListenableServiceMixin {

@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:modular_stacked_tutorial/home/home_viewmodel.dart';
 import 'package:modular_stacked_tutorial/home/widgets/counter_widget.dart';
-import 'package:modular_stacked_tutorial/home/widgets/custom_widget.dart';
 import 'package:stacked/stacked.dart';
 
 class HomeView extends StackedView<HomeViewModel> {
